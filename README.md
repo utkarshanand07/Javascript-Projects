@@ -1,1 +1,1 @@
-# weather-app
+# javascript projects
